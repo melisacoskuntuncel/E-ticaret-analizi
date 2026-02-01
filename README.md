@@ -1,5 +1,7 @@
 # E-ticaret-analizi
-Online Retail Data Analysis & Customer Segmentation (RFM)
+
+Online Retail Data Analysis & Customer Segmentation (RFM & K-Means)
+
 📌 Proje Özeti
 
 Bu projede, bir e-ticaret firmasına ait Online Retail veri seti kullanılarak uçtan uca bir veri analizi süreci gerçekleştirilmiştir.
